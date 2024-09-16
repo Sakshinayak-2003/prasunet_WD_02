@@ -17,5 +17,5 @@ style.css The CSS file provides styling to the stopwatch, including layout, colo
 script.js The JavaScript file contains the logic for the stopwatch, including start, pause, reset, and lap functionalities.
 
 
-OUTPUT:
-![Screenshot (146)](https://github.com/user-attachments/assets/40fc483e-84fb-4489-bcb2-673e242ae6da)
+OUTPUT:![Screenshot (146)](https://github.com/user-attachments/assets/39d9ebc0-0df0-4fc6-871c-cd5cf68d9c46)
+
